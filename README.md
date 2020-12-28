@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Well Done Studio](https://www.welldonestudio.xyz)
 - 🌱 I’m currently learning Laravel, ReactJS and Flutter
 - 🤔 I’m looking for help in Network Security
-- 📫 How to reach me: glenaldinhalim16@gmail.com
+- 📫 How to reach me: Discord DM (glenaldinlim#7397)
 - ⚡ Fun fact: Dunno XD
 
 **Langueages and Tools**
