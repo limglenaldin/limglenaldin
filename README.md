@@ -34,6 +34,8 @@
 
 <img alt="flenaldinlim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=glenaldinlim&show_icons=true&hide_border=true" />
 
-Nice to meet you!
+**My Highlight Repo's**
+- [Simple Arduino Project List](https://github.com/glenaldinlim/arduino-project)
 
-[Glenaldin Halim](https://github.com/glenaldinlim)
+Nice to meet you!
+Sincerely, [Glenaldin Halim](https://github.com/glenaldinlim)
