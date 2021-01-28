@@ -1,12 +1,12 @@
 <h2 align="center"> Hi there, I'm Glenaldin 👋 </h2>
-<p align="justify"> I'm a Second Year College Student also a Junior Web Progammer. Now, I work as a freelancer Junior Software Engineer on Well Done Studio. I like playing games also like watching Anime XD. Beside programming, I also interest in Networking especially in Cyber Security. </p>
+<p align="justify"> I'm a Second Year College Student also a Junior Web Programmer. Now, I work as a freelancer Junior Software Engineer in Well Done Studio. I like playing games also like watching Anime XD. Besides programming, I'm also interested in Networking, especially in Cyber Security. </p>
 
 **About**
 
 - 🔭 I’m currently working on [Well Done Studio](https://www.welldonestudio.xyz)
 - 🌱 I’m currently learning Laravel, ReactJS and Flutter
 - 🤔 I’m looking for help in Network Security
-- 📫 How to reach me: Discord DM (glenaldinlim#7397)
+- 📫 How to reach me: [Email](mailto:glenaldinhalim16@gmail.com)
 - ⚡ Fun fact: Dunno XD
 
 **Langueages and Tools**
