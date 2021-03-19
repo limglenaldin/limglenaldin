@@ -3,7 +3,7 @@
 
 **About**
 
-- 🔭 I’m currently working on [Well Done Studio](https://www.welldonestudio.xyz)
+- 🔭 I’m currently a Computer Engineer student on IPB University
 - 🌱 I’m currently learning Laravel, ReactJS and Flutter
 - 🤔 I’m looking for help in Network Security
 - 📫 How to reach me: [Email](mailto:glenaldinhalim16@gmail.com)
