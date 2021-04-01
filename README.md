@@ -6,7 +6,7 @@
 - 🔭 I’m currently a Computer Engineer student on IPB University
 - 🌱 I’m currently learning Laravel, ReactJS and Flutter
 - 🤔 I’m looking for help in Network Security
-- 📫 How to reach me: [Email](mailto:glenaldinhalim16@gmail.com)
+- 📫 How to reach me: [Email](mailto:limglenaldin@gmail.com)
 - ⚡ Fun fact: Dunno XD
 
 **Langueages and Tools**
