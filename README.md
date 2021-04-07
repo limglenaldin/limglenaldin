@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there, I'm Glenaldin 👋 </h2>
-<p align="justify"> I'm a Second Year College Student also a Junior Web Programmer. Now, I work as a freelancer Junior Software Engineer in Well Done Studio. I like playing games also like watching Anime XD. Besides programming, I'm also interested in Networking, especially in Cyber Security. </p>
+<p align="justify"> I'm a Second Year College Student also a Junior Web Programmer. Now, I work as a freelancer programmer. I like playing games also like watching Anime XD. Besides programming, I'm also interested in Networking, especially in Cyber Security. </p>
 
 **About**
 
