@@ -1,42 +1,19 @@
-<h2 align="center"> Hi there, I'm Glenaldin 👋 </h2>
-<p align="justify"> I'm a Last Year College Student also a Junior Web Programmer. Now, I work as a freelancer programmer. I like playing games also like watching Anime XD. Besides programming, I'm also interested in Networking, especially in Cyber Security. </p>
+![Glenaldin's Card Name](https://cardivo.vercel.app/api?name=Glenaldin%20Halim&description=Hi%2C%20I%27m%20a%20Last%20Year%20College%20Student%20also%20a%20Junior%20Web%20Progammer&image=https://avatars.githubusercontent.com/u/35095375?v=4&site=https://limisius.me&linkedin=Glenaldin%20Halim&instagram=limglenaldin&github=glenaldinlim&backgroundColor=%23E4E4E4&fontColor=%231F1F1F&pattern=floatingCogs&colorPattern=%23F1F1F1)
 
 **About**
-
-- 🔭 I’m currently a Computer Engineer student on IPB University
+- 👨‍🎓 I’m currently a Computer Engineer student on IPB University
+- 👨‍💻 I'm currently working as freelancer
+- ✨ I'm interest in Web Development, Multi Platform App Development, Networking (Cyber Security) and Microcontroller especially in IoT (Internet of Things).
 - 🌱 I’m currently learning Laravel, ReactJS, Flutter and Arduino
 - 🤔 I’m looking for help in Network Security and Microcontroller (Arduino)
-- 📫 How to reach me: [Email](mailto:limglenaldin@gmail.com)
-- ⚡ Fun fact: Dunno XD
-
-**Langueages and Tools**
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-<img align="left" alt="Firefox" width="26px" src="https://raw.githubusercontent.com/github/explore/728542e0d33f83720614f61923a9cb424264db23/topics/firefox/firefox.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="Microsoft Window" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" /
-
-**Keep in Touch**
-
-[<img align="left" alt="glenaldinlim's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/glenaldin-halim-094324175)
-[<img alt="glenaldinlim's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/glenaldinlim)
-
-**My GitHub Stats**
-
-<img alt="flenaldinlim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=glenaldinlim&show_icons=true&hide_border=true" />
+- 📫 How to reach me: [Email](mailto:limglenaldin@gmail.com) or [Instagram](https://www.instagram.com/limglenaldin/)
+- ⚡ Fun fact: Like playing a games also watching an Anime XD
 
 **My Highlight Repo's**
 - [Simple Arduino Project List](https://github.com/glenaldinlim/arduino-project)
 
-Nice to meet you!
+**My GitHub Stats**  
+<img alt="flenaldinlim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=glenaldinlim&show_icons=true&hide_border=true" />
 
+Nice to meet you!  
 Sincerely, [Glenaldin Halim](https://github.com/glenaldinlim)
