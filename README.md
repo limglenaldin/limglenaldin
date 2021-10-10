@@ -9,8 +9,9 @@
 - 📫 How to reach me: [Email](mailto:limglenaldin@gmail.com) or [Instagram](https://www.instagram.com/limglenaldin/)
 - ⚡ Fun fact: Like playing a games also watching an Anime XD
 
-**My Highlight Repo's**
+**Public Repo's**
 - [Simple Arduino Project List](https://github.com/glenaldinlim/arduino-project)
+- [LEBAR - Learning Basic Arduino Based AR](https://github.com/glenaldinlim/lebar-learning-basic-arduino-based-augmented-reality)
 
 **My GitHub Stats**  
 <img alt="flenaldinlim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=glenaldinlim&show_icons=true&hide_border=true" />
