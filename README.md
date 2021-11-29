@@ -12,6 +12,7 @@
 **Public Repo's**
 - [Simple Arduino Project List](https://github.com/glenaldinlim/arduino-project)
 - [LEBAR - Learning Basic Arduino Based AR](https://github.com/glenaldinlim/lebar-learning-basic-arduino-based-augmented-reality)
+- [Datalas](https://github.com/glenaldinlim/datalas)
 
 **My GitHub Stats**  
 <img alt="flenaldinlim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=glenaldinlim&show_icons=true&hide_border=true" />
