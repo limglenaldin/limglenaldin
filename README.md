@@ -13,7 +13,8 @@
 - [Simple Arduino Project List](https://github.com/glenaldinlim/arduino-project)
 - [LEBAR - Learning Basic Arduino Based AR](https://github.com/glenaldinlim/lebar-learning-basic-arduino-based-augmented-reality)
 - [Datalas - Data Digital Komoditas](https://github.com/glenaldinlim/datalas)
-- [SGP - Smart Greenhouse Pesticide](https://github.com/glenaldinlim/sgp-iot)
+- [SGP - Smart Greenhouse Pesticide (Hardware)](https://github.com/glenaldinlim/sgp-iot)
+- [SGP - Smart Greenhouse Pesticide (Web)](https://github.com/glenaldinlim/sgp-iot-web)
 
 **My GitHub Stats**  
 <img alt="flenaldinlim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=glenaldinlim&show_icons=true&hide_border=true" />
