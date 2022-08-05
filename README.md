@@ -1,5 +1,3 @@
-![Glenaldin's Card Name](https://cardivo.vercel.app/api?name=Glenaldin%20Halim&description=Hi%2C%20I%27m%20a%20Last%20Year%20College%20Student%20also%20a%20Junior%20Web%20Progammer&image=https://avatars.githubusercontent.com/u/35095375?v=4&site=https://limglenaldin.my.id&linkedin=Glenaldin%20Halim&instagram=limglenaldin&github=glenaldinlim&backgroundColor=%23E4E4E4&fontColor=%231F1F1F&pattern=floatingCogs&colorPattern=%23F1F1F1)
-
 **About**
 - 👨‍🎓 I’m currently a Computer Engineer student on IPB University
 - 👨‍💻 I'm currently working as freelancer
