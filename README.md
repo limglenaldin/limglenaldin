@@ -1,21 +1,15 @@
-**About**
-- 👨‍🎓 I’m currently a Computer Engineer student on IPB University
-- 👨‍💻 I'm currently working as freelancer
-- ✨ I'm interest in Web Development, Multi Platform App Development, Networking (Cyber Security) and Microcontroller especially in IoT (Internet of Things).
-- 🌱 I’m currently learning Laravel, ReactJS, Flutter and Arduino
-- 🤔 I’m looking for help in Network Security and Microcontroller (Arduino)
-- 📫 How to reach me: [Email](mailto:limglenaldin@gmail.com) or [Instagram](https://www.instagram.com/limglenaldin/)
-- ⚡ Fun fact: Like playing a games also watching an Anime XD
+# 💫 About Me:
+A person who is passionate about software engineering, mainly on Backend side. He is also interested in DevOps and the Internet of Things. Now He works as Software Engineer Intern at SIRCLO.  
 
-**Public Repo's**
-- [Simple Arduino Project List](https://github.com/glenaldinlim/arduino-project)
-- [LEBAR - Learning Basic Arduino Based AR](https://github.com/glenaldinlim/lebar-learning-basic-arduino-based-augmented-reality)
-- [Datalas - Data Digital Komoditas](https://github.com/glenaldinlim/datalas)
-- [SGP - Smart Greenhouse Pesticide (Hardware)](https://github.com/glenaldinlim/sgp-iot)
-- [SGP - Smart Greenhouse Pesticide (Web)](https://github.com/glenaldinlim/sgp-iot-web)
+He learned Web Development in 2018 until now. He uses Laravel as the primary Backend stack to build a web app. He also uses React JS as a Frontend stack. Now, He is trying to learn GoLang to increase his skillsets on Backend stack.
 
-**My GitHub Stats**  
-<img alt="flenaldinlim's Github Stats" src="https://github-readme-stats.vercel.app/api?username=glenaldinlim&show_icons=true&hide_border=true" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glenaldin-halim-094324175) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@glenaldinlim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/limglenaldin) 
 
-Nice to meet you!  
-Sincerely, [Glenaldin Halim](https://github.com/glenaldinlim)
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=glenaldinlim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=glenaldinlim&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glenaldinlim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Generator: https://gprm.itsvg.in/ -->
