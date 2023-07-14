@@ -1,7 +1,7 @@
 # 💫 About Me:
-A person who is passionate about software engineering, mainly on Backend side. He is also interested in DevOps and the Internet of Things. Now He works as Software Engineer Intern at SIRCLO.  
+A person who is passionate about software engineering, mainly on Backend side. He is also interested in DevOps and the Internet of Things. Now he is a participant in Generasi Gigih 3.0 on Fullstack Engineer Track.  
 
-He learned Web Development in 2018 until now. He uses Laravel as the primary Backend stack to build a web app. He also uses React JS as a Frontend stack. Now, He is trying to learn GoLang to increase his skillsets on Backend stack.
+He learned Web Development in 2018 until now. He uses Laravel as the primary Backend stack to build a web app. He also uses React JS as a Frontend stack. Now, he is trying to learn GoLang to increase his skillsets on Backend stack.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glenaldin-halim-094324175) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@glenaldinlim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/limglenaldin) 
 
