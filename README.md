@@ -1,7 +1,7 @@
 # 💫 About Me:
 A passionate person in the Backend Engineering field with experiences in Golang, PHP (Laravel), SQL (MySQL, PgSQL), and No-SQL (Firebase). Moreover, he is also interested in DevOps and the Internet of Things.  
 
-Keep in touch
+Keep in touch  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/limglenaldin/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://limglenaldin.medium.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/limglenaldin) 
 
 # 💻 Tech Stack:
